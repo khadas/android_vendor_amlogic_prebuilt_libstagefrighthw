@@ -1,0 +1,1 @@
+{"message": "This is an automated message.\n \n \nGIT MSG checker\n \n1. Check commit message length(max 80 char each line): PASS!\n \n2. Check commit message format: PASS!\n", "labels": {"Verified": 1}, "notify": "NONE"}
